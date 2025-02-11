@@ -19,4 +19,4 @@ try{
     console.log("Error sending verification",error);
     throw new Error(`Error sending verification email: ${error}`)
 }
-} 
+}
