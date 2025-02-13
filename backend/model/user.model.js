@@ -14,7 +14,7 @@ name:{
     type:String,
     required:true,
 },
-lastlogin:{
+lastLogin:{
     type:Date,
     default:Date.now
 },
